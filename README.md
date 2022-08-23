@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512" height="512" src="/Images/header.png">
+  <img width="700" height="512" src="/Images/header.png">
 </p>
 
 Date Formatter Pool
