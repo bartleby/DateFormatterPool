@@ -5,14 +5,11 @@
 Date Formatter Pool
 ========
 
-Date Formatter Pool it is smaaaal utility for convention `Date Formatter`
-
-
-Date Formatter Pool creates and stores your formats for convenient reuse
+Date Formatter Pool - is a small utility that creates and stores your `Date Formatter` for convenient reuse
 
 ## Installation
 
-Date Formatter Pool is available through [Swift Package Manager](https://swift.org/package-manager/).
+is available in the [Swift Package Manager](https://swift.org/package-manager/).
 
 ### Swift Package Manager
 
