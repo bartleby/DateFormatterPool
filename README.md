@@ -5,7 +5,7 @@
 Date Formatter Pool
 ========
 
-Date Formatter Pool - is a small utility that creates and stores your `Date Formatter` for convenient reuse
+Date Formatter Pool - is a small utility that creates and stores your `Date Formatter` for simple reuse
 
 ## Installation
 
