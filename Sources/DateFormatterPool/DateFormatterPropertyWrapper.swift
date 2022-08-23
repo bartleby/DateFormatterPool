@@ -17,7 +17,7 @@ public final class DateFormatterPool {
     
     
     // MARK: - Init/Deinit
-    init(_ format: DateFormat) {
+    public init(_ format: DateFormat) {
         self.format = format
     }
 }
