@@ -36,7 +36,7 @@ extension DateFormat {
 Then get an `DateFormatter` from the pool using `PropertyWrapper`.
 
 ```swift
-struct ListView: View {
+struct ContentView: View {
     @DateFormatterPool(.shortDateAndTime) var shortDateAndTimeFormatter
     
     var body: some View {
