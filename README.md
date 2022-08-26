@@ -33,6 +33,11 @@ extension DateFormat {
 }
 ```
 
+On this site you can create the format you need:
+```
+https://nsdateformatter.com
+```
+
 Then get an `DateFormatter` from the pool using `PropertyWrapper`.
 
 ```swift
