@@ -33,10 +33,9 @@ extension DateFormat {
 }
 ```
 
-On this site you can create the format you need:
-```
-https://nsdateformatter.com
-```
+On this site you can create the format you need: [nsdateformatter.com](https://nsdateformatter.com)
+
+
 
 Then get an `DateFormatter` from the pool using `PropertyWrapper`.
 
